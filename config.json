@@ -13,21 +13,21 @@
   "password": "050823",
   "repoLink": "https://github.com/nasan016/webshell",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "sethjyotiranjan1@gmail.com",
+    "github": "son",
+    "linkedin": "soon"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
     [
-      "GofeR",
+      "OptiVerse AI",
       "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "https://optiverseai.vercel.app"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "empty",
+      "empty",
+      "n"
     ]
   ],
   "colors": {
